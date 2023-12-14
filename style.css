@@ -1,0 +1,26 @@
+/* Styling for the card header within an element with class 'card' */
+.card .card-header {
+    background-color: rgb(22, 26, 66);
+    color: beige;
+}
+
+/* Styling for the overall card element */
+.card {
+    background: linear-gradient(90deg, rgba(25, 78, 219, 1) 0%, rgba(20, 116, 136, 0.5551470588235294) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+/* Styling for labels within an element with class 'dict-form' */
+.dict-form label {
+    color: beige;
+}
+
+/* Styling for all 'span' elements */
+span {
+    color: beige;
+    font-weight: bold;
+}
+
+/* Styling for all buttons */
+button {
+    box-shadow: inset 0px -3px 8px 0px black;
+}
